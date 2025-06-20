@@ -1,0 +1,23 @@
+.home-logo {
+  width: auto;
+  max-width: 19% !important;
+  margin-top: 5rem;
+  text-align: center !important;
+}
+
+.title {
+  color: var(--black) !important;
+  text-align: center !important;
+  font-weight: 300 !important;
+  font-size: 300% !important;
+  margin-bottom: 6rem !important;
+}
+
+.card {
+  background-color: rgb(243, 221, 228) !important;
+  border-radius: 1rem !important;
+}
+
+.card-title {
+  color: var(--black) !important;
+}
